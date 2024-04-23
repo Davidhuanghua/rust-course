@@ -1,6 +1,5 @@
 <img src="https://pic1.zhimg.com/80/v2-e9cfbd08d2ebca51b588d1beaed3c0dd_1440w.jpg" />
 <div align="center">正在努力学 Rust 的 Ferris</div>
-
 <br />
 
 ## Rust 发展历程
